@@ -11,7 +11,7 @@ A program to solve systems of linear equations using **Gaussian Elimination with
 
 ---
 
-## 📦 Installation  
+## 📦 Installation
 1. **Download or clone the repository**
 2. **Run the Program using any IDE**
 
