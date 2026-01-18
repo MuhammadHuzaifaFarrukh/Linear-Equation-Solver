@@ -3,7 +3,6 @@
 #include <sstream>
 #include <cmath>
 
-
 using namespace std;
 
 float** inverse_row_echelon(float **arr , float **b ,float **arr_copy , float **b_copy, int m , int n);
@@ -459,3 +458,4 @@ float** inverse_row_echelon(float **arr , float **b ,float **arr_copy , float **
         return b;
 
 }
+
