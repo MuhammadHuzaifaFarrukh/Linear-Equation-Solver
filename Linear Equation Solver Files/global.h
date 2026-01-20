@@ -19,3 +19,4 @@ void allocate(float **arr, int rows, int columns);
 //The Main Function
 float** inverse_row_echelon(float **arr , float **b ,float **arr_copy , float **b_copy, int m , int n);
 
+
